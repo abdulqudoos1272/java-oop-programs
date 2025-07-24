@@ -41,6 +41,5 @@ public class Program1 {
         Car c1=new Car();
         c1.get_car_info();
         c1.display_car_info();
-
     }
 }
