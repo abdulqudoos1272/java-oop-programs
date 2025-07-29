@@ -16,7 +16,6 @@ public class Program15 {
         else{
             throw new Exception("Odd");
         }
-
     }
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
